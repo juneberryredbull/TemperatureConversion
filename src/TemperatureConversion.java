@@ -19,8 +19,8 @@ public class TemperatureConversion {
         // These two declared variables store the Celsius and Kelvin values while simultaneously being
         // calculated through basic arithmetic operations.
 
-        System.out.printf("Temperature in Celsius: %.2f \n", celsius);
-        System.out.printf("Temperature in Kelvin: %.2f", kelvin);
+        System.out.printf("Temperature in Celsius: %.2f°C \n", celsius);
+        System.out.printf("Temperature in Kelvin: %.2f°K", kelvin);
         // These two print statements will display the conversions.
         // These print statements are also formatted to only show two decimal places.
 
